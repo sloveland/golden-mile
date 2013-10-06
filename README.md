@@ -49,7 +49,7 @@ Build six copies of the same application with six different back-end frameworks,
 
 There are a lot of aspects about the Golden Mile that you won't be able to plan ahead of time. You're venturing out into new territory, so leave some room for serendipity!
 
-However, it always helps to have something of a plan. You don't want to be worried about colors while struggling with PHP errors. For that reason, consider creating a simple Site Plan and Style Guide. Start simple, with simple notes and sketches on a scratchpad.
+However, it always helps to have something of a plan. You don't want to be worried about colors while struggling with PHP errors. For that reason, consider creating a simple Site Plan and Style Guide.
 
 ### Site Plan ###
 You can document your plan however you like, but make sure it answers the following questions:
@@ -61,7 +61,7 @@ You can document your plan however you like, but make sure it answers the follow
 * What kind of content is needed? What do you have already?
 
 ### Style Guide ###
-This is a guide for you and anyone on your team - it can be a screenshot, some sketches, a document, or all of the above. Typically a style guide will address:
+This can be a screenshot, some sketches, a document, or all of the above. Typically a style guide will address:
 
 * Colors
 * Typography
@@ -82,7 +82,7 @@ As of this writing, here are some good examples:
 
 * [Codepen](http://codepen.io/) - A social playground for front-end web development. Great for creative play: skip the setup and jump right in!
 * [Github](https://github.com/) - A social development environment for housing projects. Keep your code in Github Repositories for storage, versioning, and easy collaboration.
-* [Emmet (Zen Coding](http://docs.emmet.io/) - A plugin for quick and easy coding with HTML. No more typing angle-brackets. If you're using [Sublime Text](http://www.sublimetext.com/) for your text editor, this can be easily installed using the [Package Control](https://sublime.wbond.net/).
+* [Emmet (Zen Coding)](http://docs.emmet.io/) - A plugin for quick and easy coding with HTML. No more typing angle-brackets. If you're using [Sublime Text](http://www.sublimetext.com/) for your text editor, this can be easily installed using the [Package Control](https://sublime.wbond.net/).
 * [Web Developer Browser Plug-In](http://chrispederick.com/work/web-developer/) - Easily disable CSS/Javascript, look for alt tags, validate your html/css, select colors, and more with this browser plugin.
 
 
@@ -92,9 +92,9 @@ As of this writing, here are some good examples:
 
 > -- Samwise Gamgee
 
-Your epic journey needs to be recorded. Your story should be told. Keep a journal, a blog, a spreadsheet, or moleskin - whatever it is, record your progress as you go along.
+Your epic journey needs to be recorded, and your story should be told. Keep a journal, a blog, a spreadsheet, or moleskin - whatever it is, record your progress as you go along.
 
-This can be a spreadsheet record of time spent, a weekly blog, whatever feels comfortable to you. Whatever it is, keeping a record of your progress will help:
+This can be a spreadsheet record of time spent, a weekly blog, whatever feels comfortable to you. Keeping a record of your progress will help:
 
 * Reflect on your learning - a quick mental review helps solidify what you've learned, which will definitely help you on future projects!
 * Solve problems - something about writing down your predicament puts it into a more logical form. Instead of keeping it nebulously in your head, writing it down will put it in more certain terms - something your problem-solving mind can work with.
