@@ -76,7 +76,7 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 > -- Samwise Gamgee
 
-Be prepared - you don't want to get caught without rope, matches, or a pocket knife. Use tools to provide a smooth, modern workflow as you build. 
+Be prepared - you don't want to get caught without rope, matches, or a pocketknife. Use tools to provide a smooth, modern workflow as you build. 
 
 As of this writing, here are some good examples:
 
