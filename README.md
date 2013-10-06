@@ -4,6 +4,10 @@ The Golden Mile
 A level-up dungeon for learning to make basic web apps.
 
 ## The Quest ##
+Make a product using each of the following APIs and host them on Github. The product should:
+
+* Be device agnostic (work on all web-enabled devices)
+* Use progressive enhancement (works with pure HTML, enhanced with further CSS/JS, etc.)
 
 ### Front End ###
 Build the front-end mockup for the app, enhancing it further with each step:
