@@ -56,6 +56,8 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 ## The Journey ##
 >"Rope!" he muttered. "No rope! And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
+> -Samwise Gamgee, Fellowship of the Ring
+
 Use tools to provide a smooth, modern workflow as you build. As of this writing, here are some good examples:
 
 * [Codepen](http://codepen.io/) - A social playground for front-end web development. Great for creative play: skip the setup and jump right in!
