@@ -4,11 +4,10 @@ The Golden Mile
 An epic level-up journey for learning to make web apps.
 
 ## The Quest ##
-> “There was a lot more to that song," said Sam, "all about Mordor. I didn’t learn that part, it gave me the shivers. I never thought I should be going that was myself!"
+> "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to."
 
-> "Going to Mordor!" Cried Pippin. "I hope it won’t come to that!"
+> -- Bilbo Baggins
 
-> "Do not speak that name so loudly!" said Strider.
 
 That's right, ladies and gents: We're going to Mordor. We're daring to take on 12 weeks web-dev sprinting craziness, preparing to take a few hits along the way. After all... one does not simply walk into Mordor.
 
@@ -72,13 +71,11 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 ## The Journey ##
 
-> "Rope!" he muttered. 
-
-> "No rope! And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
+> "And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
 
 > -- Samwise Gamgee
 
-Be prepared - you don't want to get caught without rope, matches, or a pocket knife, on this adventure. Use tools to provide a smooth, modern workflow as you build. 
+Be prepared - you don't want to get caught without rope, matches, or a pocket knife. Use tools to provide a smooth, modern workflow as you build. 
 
 As of this writing, here are some good examples:
 
