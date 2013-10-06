@@ -11,7 +11,7 @@ An epic level-up journey for learning to make web apps.
 
 That's right, ladies and gents: We're going to Mordor. We're daring to take on 12 weeks web-dev sprinting craziness, preparing to take a few hits along the way. After all... one does not simply walk into Mordor.
 
-The Goal: Make a product using each of the following APIs and host them on Github. 
+The Goal: Make a product using each of the 12 APIs and host them on Github. 
 
 The product should:
 
