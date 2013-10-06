@@ -23,7 +23,7 @@ Build the front-end mockup for the app, enhancing it further with each step:
 6. JSON
 
 ### Back End ###
-Build six copies of the same application with CRUD functionality:
+Build six copies of the same application with six different back-end frameworks, for example:
 
 1. PHP + MYSQL
 2. Rails RB
