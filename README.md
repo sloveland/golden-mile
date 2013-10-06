@@ -65,6 +65,7 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 * Colors
 * Typography
+* Layout/Grid/Wireframes
 * Media (Images, thumbnails, etc)
 * Common Display Elements (Buttons, lists, navigation, etc.)
 
