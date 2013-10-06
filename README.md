@@ -8,6 +8,9 @@ Make a product using each of the following APIs and host them on Github. The pro
 
 * Be device agnostic (work on all web-enabled devices)
 * Use progressive enhancement (works with pure HTML, enhanced with further CSS/JS, etc.)
+* The app should solve a real-life problem (simple is good!)
+* The app should perform CRUD functionality (Create, Read, Update, Delete)
+* Having a Site Plan and a Style Guide for the app is strongly encouraged. (This helps maintain a plan, prioritize app goals and usability, and define the project scope so that it doesn't get out of hand.)
 
 ### Front End ###
 Build the front-end mockup for the app, enhancing it further with each step:
