@@ -34,7 +34,9 @@ Build six copies of the same application with six different back-end frameworks,
 
 
 ## The Map ##
-Take some time to prepare for your app before you start coding:
+> "The world is not in your books and maps. It's out there."
+
+> -- Gandalf
 
 ### Site Plan ###
 You can document your plan however you like, but make sure it answers the following questions:
@@ -60,7 +62,7 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 > "No rope! And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
 
-> - Samwise Gamgee
+> -- Samwise Gamgee
 
 Use tools to provide a smooth, modern workflow as you build. As of this writing, here are some good examples:
 
@@ -78,4 +80,4 @@ Use tools to provide a smooth, modern workflow as you build. As of this writing,
 
 > 'Yes, m'boy, the most famousest of hobbits. And that's saying a lot.'” 
 
-> - Samwise Gamgee
+> -- Samwise Gamgee
