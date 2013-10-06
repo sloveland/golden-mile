@@ -3,9 +3,9 @@ The Golden Mile
 
 A level-up dungeon for learning to make basic web apps.
 
-# The Quest #
+## The Quest ##
 
-## Front End ##
+### Front End ###
 Build the front-end mockup for the app, enhancing it further with each step:
 
 1. HTML5
@@ -15,7 +15,7 @@ Build the front-end mockup for the app, enhancing it further with each step:
 5. AJAX
 6. JSON
 
-## Back End ##
+### Back End ###
 Build six copies of the same application with CRUD functionality:
 
 1. PHP + MYSQL
