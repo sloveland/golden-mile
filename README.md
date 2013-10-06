@@ -7,6 +7,7 @@ A level-up dungeon for learning to make basic web apps.
 
 ## Front End ##
 Build the front-end mockup for the app, enhancing it further with each step:
+
 1. HTML5
 2. CSS3
 3. Media Queries
@@ -16,6 +17,7 @@ Build the front-end mockup for the app, enhancing it further with each step:
 
 ## Back End ##
 Build six copies of the same application with CRUD functionality:
+
 1. PHP + MYSQL
 2. Rails RB
 3. Django PY
