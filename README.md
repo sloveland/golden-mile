@@ -89,10 +89,6 @@ As of this writing, here are some good examples:
 
 > “I wonder if people will ever say, 'Let's hear about Frodo and the Ring.' 
 
-> And they'll say, 'Yes, that's one of my favorite stories. Frodo was really courageous, wasn't he, Dad?'
-
-> 'Yes, m'boy, the most famousest of hobbits. And that's saying a lot.'” 
-
 > -- Samwise Gamgee
 
 Your epic journey needs to be recorded. Your story should be told. Keep a journal, a blog, a spreadsheet, or moleskin - whatever it is, record your progress as you go along.
