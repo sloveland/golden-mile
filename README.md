@@ -5,7 +5,9 @@ An epic level-up journey for learning to make web apps.
 
 ## The Quest ##
 > “There was a lot more to that song," said Sam, "all about Mordor. I didn’t learn that part, it gave me the shivers. I never thought I should be going that was myself!"
+
 > "Going to Mordor!" Cried Pippin. "I hope it won’t come to that!"
+
 > "Do not speak that name so loudly!" said Strider.
 
 That's right, ladies and gents: We're going to Mordor. We're daring to take on 12 weeks web-dev sprinting craziness, preparing to take a few hits along the way. After all... one does not simply walk into Mordor.
