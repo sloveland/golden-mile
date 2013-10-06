@@ -31,3 +31,11 @@ Build six copies of the same application with six different back-end frameworks,
 4. Ember JS
 5. Meteor JS
 6. MEAN JS (MongoDB, Express, Angular, Node)
+
+
+## The Journey ##
+Use tools to provide a smooth, modern workflow as you build. As of this writing, here are some good examples:
+
+* [Codepen](http://codepen.io/) - A social playground for front-end web development. Great for creative play: skip the setup and jump right in!
+* [Github](https://github.com/) - A social development environment for housing projects. Keep your code in Github Repositories for storage, versioning, and easy collaboration.
+* [Emmet (Zen Coding](http://docs.emmet.io/) - A plugin for quick and easy coding with HTML. No more typing angle-brackets. If you're using [Sublime Text](http://www.sublimetext.com/) for your text editor, this can be easily installed using the [Package Control](https://sublime.wbond.net/).
