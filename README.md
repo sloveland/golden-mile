@@ -55,9 +55,14 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 
 ## The Journey ##
+>"Rope!" he muttered. "No rope! And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
 Use tools to provide a smooth, modern workflow as you build. As of this writing, here are some good examples:
 
 * [Codepen](http://codepen.io/) - A social playground for front-end web development. Great for creative play: skip the setup and jump right in!
 * [Github](https://github.com/) - A social development environment for housing projects. Keep your code in Github Repositories for storage, versioning, and easy collaboration.
 * [Emmet (Zen Coding](http://docs.emmet.io/) - A plugin for quick and easy coding with HTML. No more typing angle-brackets. If you're using [Sublime Text](http://www.sublimetext.com/) for your text editor, this can be easily installed using the [Package Control](https://sublime.wbond.net/).
 * [Web Developer Browser Plug-In](http://chrispederick.com/work/web-developer/) - Easily disable CSS/Javascript, look for alt tags, validate your html/css, select colors, and more with this browser plugin.
+
+
+## The Record ##
+*Every epic story should be passed on.*
