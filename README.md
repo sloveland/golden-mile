@@ -88,7 +88,7 @@ As of this writing, here are some good examples:
 
 ## The Record ##
 
-> “I wonder if people will ever say, 'Let's hear about Frodo and the Ring.' 
+> “I wonder if people will ever say, 'Let's hear about Frodo and the Ring.'"
 
 > -- Samwise Gamgee
 
