@@ -1,7 +1,7 @@
 The Golden Mile
 ===============
 
-An epic level-up dungeon for learning to make basic web apps.
+An epic level-up journey for learning to make web apps.
 
 ## The Quest ##
 > “There was a lot more to that song," said Sam, "all about Mordor. I didn’t learn that part, it gave me the shivers. I never thought I should be going that was myself!"
