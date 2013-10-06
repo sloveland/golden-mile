@@ -4,7 +4,15 @@ The Golden Mile
 An epic level-up dungeon for learning to make basic web apps.
 
 ## The Quest ##
-Make a product using each of the following APIs and host them on Github. The product should:
+> “There was a lot more to that song," said Sam, "all about Mordor. I didn’t learn that part, it gave me the shivers. I never thought I should be going that was myself!"
+> "Going to Mordor!" Cried Pippin. "I hope it won’t come to that!"
+> "Do not speak that name so loudly!" said Strider.
+
+That's right, ladies and gents: We're going to Mordor. We're daring to take on 12 weeks web-dev sprinting craziness, preparing to take a few hits along the way. After all... one does not simply walk into Mordor.
+
+The Goal: Make a product using each of the following APIs and host them on Github. 
+
+The product should:
 
 * Be device agnostic (work on all web-enabled devices)
 * Use progressive enhancement (works with pure HTML, enhanced with further CSS/JS, etc.)
@@ -68,7 +76,9 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 > -- Samwise Gamgee
 
-Use tools to provide a smooth, modern workflow as you build. As of this writing, here are some good examples:
+Be prepared - you don't want to get caught without rope, matches, or a pocket knife, on this adventure. Use tools to provide a smooth, modern workflow as you build. 
+
+As of this writing, here are some good examples:
 
 * [Codepen](http://codepen.io/) - A social playground for front-end web development. Great for creative play: skip the setup and jump right in!
 * [Github](https://github.com/) - A social development environment for housing projects. Keep your code in Github Repositories for storage, versioning, and easy collaboration.
@@ -85,3 +95,12 @@ Use tools to provide a smooth, modern workflow as you build. As of this writing,
 > 'Yes, m'boy, the most famousest of hobbits. And that's saying a lot.'” 
 
 > -- Samwise Gamgee
+
+Your epic journey needs to be recorded. Your story should be told. Keep a journal, a blog, a spreadsheet, or moleskin - whatever it is, record your progress as you go along.
+
+This can be a spreadsheet record of time spent, a weekly blog, whatever feels comfortable to you. Whatever it is, keeping a record of your progress will help:
+
+* Reflect on your learning - a quick mental review helps solidify what you've learned, which will definitely help you on future projects!
+* Solve problems - something about writing down your predicament puts it into a more logical form. Instead of keeping it nebulously in your head, writing it down will put it in more certain terms - something your problem-solving mind can work with.
+* Keep discouragement at bay. It's hard to trick yourself into thinking you haven't been making progress when your recorded proof says otherwise.
+
