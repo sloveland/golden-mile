@@ -38,6 +38,10 @@ Build six copies of the same application with six different back-end frameworks,
 
 > -- Gandalf
 
+There are a lot of aspects about the Golden Mile that you won't be able to plan ahead of time. You're venturing out into new territory, so leave some room for serendipity!
+
+However, it always helps to have something of a plan. You don't want to be worried about colors while struggling with PHP errors. For that reason, consider creating a simple Site Plan and Style Guide. Start simple, with simple notes and sketches on a scratchpad.
+
 ### Site Plan ###
 You can document your plan however you like, but make sure it answers the following questions:
 
