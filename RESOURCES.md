@@ -23,6 +23,7 @@ A record of sites with documentation, articles, and tutorials to help solve prob
 * [15 Resources To Get You Started With jQuery From Scratch](http://net.tutsplus.com/tutorials/javascript-ajax/15-resources-to-get-you-started-with-jquery-from-scratch/) - Jeffrey Way's Nettuts article that points at great tutorials to get you started
 
 ## Workflow ##
+* [HTML5 Boilerplate](http://html5boilerplate.com/) - A starting template for any new project, includes many dependencies for building device/browser-friendly sites, such as [Modernizr](http://modernizr.com/), [jQuery](http://jquery.com/) and [Normalize](http://necolas.github.io/normalize.css/).
 * [Codepen](http://codepen.io/) - A social playground for front-end web development. Great for creative play: skip the setup and jump right in!
 * [Github](https://github.com/) - A social development environment for housing projects. Keep your code in Github Repositories for storage, versioning, and easy collaboration.
 * [Emmet (Zen Coding](http://docs.emmet.io/) - A plugin for quick and easy coding with HTML. No more typing angle-brackets. If you're using [Sublime Text](http://www.sublimetext.com/) for your text editor, this can be easily installed using the [Package Control](https://sublime.wbond.net/).
