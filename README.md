@@ -1,7 +1,7 @@
 The Golden Mile
 ===============
 
-A level-up dungeon for learning to make basic web apps.
+An epic level-up dungeon for learning to make basic web apps.
 
 ## The Quest ##
 Make a product using each of the following APIs and host them on Github. The product should:
@@ -56,7 +56,9 @@ This is a guide for you and anyone on your team - it can be a screenshot, some s
 
 ## The Journey ##
 
->"Rope!" he muttered. "No rope! And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
+> "Rope!" he muttered. 
+
+> "No rope! And only last night you said to yourself: 'Sam, what about a bit of rope? You'll want it, if you haven't got it.' Well, I'll want it. I can't get it now."
 
 > - Samwise Gamgee
 
@@ -70,6 +72,10 @@ Use tools to provide a smooth, modern workflow as you build. As of this writing,
 
 ## The Record ##
 
-> “I wonder if people will ever say, 'Let's hear about Frodo and the Ring.' And they'll say, 'Yes, that's one of my favorite stories. Frodo was really courageous, wasn't he, Dad?' 'Yes, m'boy, the most famousest of hobbits. And that's saying a lot.'” 
+> “I wonder if people will ever say, 'Let's hear about Frodo and the Ring.' 
+
+> And they'll say, 'Yes, that's one of my favorite stories. Frodo was really courageous, wasn't he, Dad?'
+
+> 'Yes, m'boy, the most famousest of hobbits. And that's saying a lot.'” 
 
 > - Samwise Gamgee
