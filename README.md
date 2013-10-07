@@ -19,9 +19,14 @@ The product should:
 * Use progressive enhancement (works with pure HTML, enhanced with further CSS/JS, etc.)
 * The app should solve a real-life problem (simple is good!)
 * The app should perform CRUD functionality (Create, Read, Update, Delete)
-* Use a map - have a site plan and a style guide (This helps maintain a plan, prioritize app goals and usability, and define the project scope so that it doesn't get out of hand.)
 
-### Front End ###
+Tips for success:
+
+* [Use a map](#the-map) - have a site plan and a style guide (This helps maintain a plan, prioritize app goals and usability, and define the project scope so that it doesn't get out of hand.)
+* [Be prepared](#the-journey) - use the right tools to make your life easier.
+* [Keep a record](#the-record) - keep track of your problems and your progress.
+
+### Front End APIs ###
 Build the front-end mockup for the app, enhancing it further with each step:
 
 1. HTML5
@@ -31,7 +36,7 @@ Build the front-end mockup for the app, enhancing it further with each step:
 5. AJAX
 6. JSON
 
-### Back End ###
+### Back End APIs ###
 Build six copies of the same application with six different back-end frameworks, for example:
 
 1. PHP + MYSQL
