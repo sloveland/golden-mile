@@ -1,7 +1,7 @@
 The Golden Mile
 ===============
 
-An epic level-up journey learning to make web apps.
+The 12-week web apps challenge.
 
 ## The Quest ##
 > "It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to."
