@@ -17,6 +17,10 @@ A record of sites with documentation, articles, and tutorials to help learn, sol
 * [CSS Tricks](http://css-tricks.com/) - Chris Coyer's excellent site with articles and tutorials - a search for almost always produce a fantastic result here.
 * [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - A comprehensive list of selectors, properties, and values.
 
+### JavaScript ###
+* [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) - The official docs.
+* [Codecademy](http://www.codecademy.com/learn) - Tutorials for getting started with the Essentials.
+
 ### jQuery ###
 * [jQuery API](http://api.jquery.com/) - jQuery's official API Documentation
 * [jQuery Learning Center](http://learn.jquery.com/) - jQuery's learning tutorials and reference
